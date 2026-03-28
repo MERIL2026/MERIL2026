@@ -1,47 +1,43 @@
-Hi 👋 I'm Meril
+<h1 align="center">Hi 👋 I'm Meril</h1>
+<h3 align="center">🚀 AI & IoT Developer | Unreal Engine Learner | Future Tech Builder</h3><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MERIL2026&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>---
 
-🚀 AI & IoT Developer | Unreal Engine Learner | Tech Enthusiast
-
----
-
-🧠 About Me
+⚡ About Me
 
 - 🌱 Currently learning Unreal Engine, AI, IoT Systems
 - 🤖 Building TECH-VISION IRIS (AI + Li-Fi Security System)
 - 🎮 Exploring Game Development & Cinematic Environments
 - 💡 Interested in Robotics, Smart Devices, Intelligent Systems
-- 🎯 Goal: To build real-world AI-powered and futuristic tech solutions
+- 🎯 Goal: Build real-world AI-powered & futuristic tech projects
 
 ---
 
-🛠️ Skills
+🛠️ Tech Stack
 
-💻 Programming & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,arduino,git,github,vscode" />
+</p>---
 
-- Python (Core + Projects)
+🧠 Skills
+
+💻 Programming
+
+- Python
 - JavaScript (Basics)
 - HTML, CSS
-- Basic Web Development
-
----
 
 ⚙️ Hardware & IoT
 
-- Arduino Programming
-- ESP32 Development
-- Sensor Integration (PIR, IR, etc.)
-- IoT System Design
-
----
+- Arduino
+- ESP32
+- Sensor Integration (PIR, IR)
 
 🤖 AI / ML
 
-- Basic Machine Learning Concepts
-- TensorFlow (Beginner Level)
-- Audio Classification (Sound Detection)
-- OpenAI API Integration
-
----
+- TensorFlow (Basic)
+- Audio Detection Systems
+- OpenAI API
 
 🎮 Game Development
 
@@ -52,69 +48,68 @@ Hi 👋 I'm Meril
 
 ---
 
-🧰 Tools & Technologies
-
-- Git & GitHub
-- VS Code
-- Arduino IDE
-- Unreal Engine Editor
-
----
-
 🚀 Projects
 
 🔹 TECH-VISION IRIS
 
-AI-powered Li-Fi based security & surveillance system
-➡️ Motion detection using PIR
-➡️ Secure alert system for RF-restricted zones
+AI-powered Li-Fi security system
+➡️ Motion detection + secure alerts
 
 ---
 
-🔹 AI Audio Detection System
+🔹 AI Audio Detection
 
-Real-time sound classification system
-➡️ Detects abnormal sounds (glass break, gunshot, etc.)
-➡️ Designed for smart surveillance
+Real-time abnormal sound detection system
 
 ---
 
 🔹 Jarvis AI Assistant
 
-Voice-based AI assistant
-➡️ Task automation
-➡️ Chat + command system
+Voice-based automation assistant
 
 ---
 
-🔹 Predator Badlands (Unreal Engine)
+🔹 Predator Badlands 🎮
 
-Realistic open-world environment project
-➡️ Cinematic terrain & lighting
-➡️ Third-person character setup
-
-🔗 https://github.com/MERIL2026/predator-badlands-unreal
+Realistic open-world environment (Unreal Engine)
+👉 https://github.com/MERIL2026/predator-badlands-unreal
 
 ---
 
 📊 GitHub Stats
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=MERIL2026&show_icons=true&theme=tokyonight)
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=MERIL2026&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MERIL2026&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MERIL2026&layout=compact&theme=tokyonight" />
+</p>---
 
----
+📈 Activity Graph
 
-🏆 Achievements & Focus
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MERIL2026&theme=tokyo-night" />
+</p>---
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MERIL2026/MERIL2026/output/github-contribution-grid-snake.svg" />
+</p>---
+
+🏆 Focus
 
 - 🚀 Building real-world AI + IoT systems
-- 🎮 Exploring Unreal Engine game development
-- 🔬 Developing innovative final-year project (TECH-VISION IRIS)
+- 🎮 Learning Unreal Engine game development
+- 🔬 Working on final-year project (TECH-VISION IRIS)
 
 ---
 
-📫 Connect with Me
+📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/meril-parmar
-- GitHub: https://github.com/MERIL2026
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/meril-parmar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/MERIL2026">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>---
