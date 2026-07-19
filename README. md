@@ -1,92 +1,48 @@
-# Hi there, I'm Meril Parmar 👋
+```markdown
+# Hi, I'm Meril Parmar 👋
 
-<div align="center">
+AI/ML Student | Full Stack Developer | Founder of Pixel Forge
 
-### 🚀 AI & IoT Developer | Full Stack Developer | Tech Enthusiast
+I'm a passionate developer who enjoys building AI-powered applications, modern web platforms, and IoT solutions. I love turning ideas into real-world products and continuously exploring new technologies.
 
-*"Building innovative solutions that bridge AI, IoT, and modern web technologies."*
+## About Me
 
-</div>
+- 🎓 Completed Diploma in Information Technology
+- 📚 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning (D2D Lateral Entry), Year 2 – Semester 3 at Parul University
+- 💻 Interested in Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, and IoT
+- 🚀 Building real-world applications that solve meaningful problems
+- 🌱 Always learning, experimenting, and improving
 
----
+## Tech Stack
 
-## 💫 About Me
+**Languages**
+- Python
+- Java
+- JavaScript
+- TypeScript
+- SQL
 
-🎓 Diploma Student in Information Technology
+**Frontend**
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
 
-💻 Passionate about AI, IoT, Robotics & Full Stack Development
+**Backend**
+- Node.js
+- Express.js
+- FastAPI
+- Flask
 
-🚀 Building projects that solve real-world problems
+**Databases**
+- MongoDB
+- PostgreSQL
+- Supabase
+- Firebase
 
-🌱 Currently learning
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- IoT Systems
-- Advanced Database Management
-
-🎯 Goal
-- Build impactful products
-- Contribute to Open Source
-- Work at top product companies
-- Keep learning every day
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
----
-
-## AI & ML
-
-- OpenAI API
-- TensorFlow
-- Scikit-Learn
-- Vosk
-- Whisper
-- Computer Vision
-- NLP
-
----
-
-## Tools
-
-- Git
-- GitHub
+**Tools**
+- Git & GitHub
 - VS Code
 - Docker
 - Postman
@@ -94,91 +50,30 @@
 - Vercel
 - Arduino IDE
 
----
+## Featured Projects
 
-# 🚀 Featured Projects
+- SkillBridge AI
+- InterviewIQ
+- EventFlow
+- ComicVerse
+- TECH-VISION IRIS
+- Jarvis AI Assistant
 
-### 🔹 Personal Portfolio
-Modern animated developer portfolio built with React and Tailwind.
+## Connect With Me
 
----
-
-### 🔹 Event Management System
-Complete event management platform with registrations, admin dashboard, email automation and analytics.
-
----
-
-### 🔹 AI Voice Assistant
-Personal desktop AI assistant capable of voice interaction, automation and productivity tasks.
-
----
-
-### 🔹 IoT Security System
-ESP32 powered smart surveillance system using sensors and AI.
-
----
-
-### 🔹 TripBuddy
-Find travel companions and build your travel network.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MERIL2026&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MERIL2026&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MERIL2026&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MERIL2026&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-[![Meril's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MERIL2026&theme=tokyo-night)](https://github.com/MERIL2026)
-
----
-
-# 🌎 Connect with Me
-
-📧 Email
-
+📧 **Email**  
 merilparmar26@gmail.com
 
-🌐 Portfolio
-
+🌐 **Portfolio**  
 https://meril-parmar-portfolio.vercel.app/
 
-💼 LinkedIn
+💼 **LinkedIn**  
+https://www.linkedin.com/in/meril-parmar-940366363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-https://www.linkedin.com/in/meril-parmar/
-
----
-
-# 💡 Quote
-
-> "Dream big. Build consistently. Learn endlessly."
+📸 **Instagram**  
+https://www.instagram.com/meril_parmar_?igsh=MWxjeTc0ZXRlanFobA==
 
 ---
 
-<div align="center">
-
-### Thanks for visiting my profile ❤️
-
-⭐ Don't forget to Star my repositories!
-
-</div>
+> *"Building technology that creates real impact."*
+```
